@@ -1,6 +1,6 @@
-<h1>Hi! I'm Josue Miguel Angel ✦</h1>
+<h1>Hi!&nbsp; I'm Josue Miguel Angel ✦</h1>
+<h2>A B O U T &nbsp; M E &nbsp; ( •̯́ ₃ •̯̀) ↴ </h2>
 <p style="font-family: 'Times New Roman', Times, serif;">
-    A B O U T  M E ( •̯́ ₃ •̯̀) ↴ <br>
     I'm currently pursuing a degree in Engineering, with a strong focus on becoming a Data Engineer. My academic background provides a solid understanding of data processing and management. I also have knowledge of Networking, Web Development, Machine Learning, and Cloud Computing. Driven by a genuine curiosity, I enjoy exploring all facets of technology.
     
     
