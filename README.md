@@ -15,7 +15,7 @@
 <br><br>
 <span style="font-size: 1.5em; vertical-align: middle;"></span> ![SQL Server](https://img.shields.io/badge/SQL_Server-C94D67?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <br>
-<p>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
+<p>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
 
 
