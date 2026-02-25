@@ -1,7 +1,7 @@
 <h1>Hi!  I'm Josue Miguel Angel ✦</h1>
 <h2>A B O U T   M E   ( •̯́ ₃ •̯̀) ↴ </h2>
 <p style="font-family: 'Times New Roman', Times, serif;">
-Actualmente curso la carrera de Ingeniería en Computación Inteligente, con un fuerte enfoque en convertirme en <b>Data Scientist</b>. Me apasiona transformar datos crudos en conocimiento accionable mediante el análisis estadístico y el aprendizaje automático. Mi formación técnica me permite no solo analizar modelos, sino también entender la infraestructura detrás del procesamiento de datos, combinando habilidades en Machine Learning, Cloud Computing y desarrollo de soluciones inteligentes.
+I am currently pursuing a degree in <b>Intelligent Computer Engineering</b>, with a dedicated focus on becoming a <b>Data Scientist</b>. I am passionate about transforming raw data into actionable insights through statistical analysis and Machine Learning. My technical background allows me to not only build predictive models but also to understand the infrastructure behind data processing, bridging the gap between Machine Learning, Cloud Computing, and intelligent solution development.
 </p>
 
 <p>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
